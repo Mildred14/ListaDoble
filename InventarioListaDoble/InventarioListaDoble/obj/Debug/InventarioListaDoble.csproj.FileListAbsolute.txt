@@ -1,0 +1,9 @@
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\bin\Debug\InventarioListaDoble.exe.config
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\obj\Debug\InventarioListaDoble.csprojResolveAssemblyReference.cache
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\obj\Debug\InventarioListaDoble.Form1.resources
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\obj\Debug\InventarioListaDoble.Properties.Resources.resources
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\obj\Debug\InventarioListaDoble.csproj.GenerateResource.Cache
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\bin\Debug\InventarioListaDoble.exe
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\bin\Debug\InventarioListaDoble.pdb
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\obj\Debug\InventarioListaDoble.exe
+c:\users\mildredsilva\documents\visual studio 2015\Projects\InventarioListaDoble\InventarioListaDoble\obj\Debug\InventarioListaDoble.pdb
